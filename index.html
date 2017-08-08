@@ -19,14 +19,17 @@
         <div class="row">
             <div class="col-md-12">
                 <form>
-                    <p>Enter planet name:<p>
+                    <p id='enter'>Enter planet name:<p>
                     <input type="text" id="planetName">
                     <br><br>
                     <button type='button' class='btn btn-primary' onclick="findPlanet()"><i class="fa fa-globe" aria-hidden="true"></i></button>
                     <div class='box'>
                         <h1 id='name'></h1>
+                        <p id='hint'></p>
                         <img id='planetLook' onclick="clickImage()">
-                        <p id='info'></p>
+                        <div id='infoBG'>
+                            <p id='info'></p>
+                        </div>
                     </div>
                 </form>
             </div>

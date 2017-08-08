@@ -87,7 +87,9 @@ function findPlanet() {
 
 		if(input.toLowerCase() == planets[i].name) {
 			var name = document.getElementById('name');
+			var hint = document.getElementById('hint');
 			name.textContent = planets[i].name;
+			hint.textContent = "(click on the planet)";
 			var image = document.getElementById('planetLook');
 			image.src = planets[i].picture;
 			image.className = 'animation';
@@ -116,8 +118,12 @@ function clickImage(){
 	console.log(input);
 
 		if(input.toLowerCase() == planets[i].name){
+		var hint = document.getElementById('hint');
+		hint.textContent = "";
 		var info = document.getElementById('info');
 			info.innerHTML = planets[i].info;
+			// document.getElementById('planetLook').style.width = '400px';
+
 
 		};
 	};
