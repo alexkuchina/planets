@@ -47,23 +47,23 @@ var planets = [
 			info: "<ul><li>Neptune was not known to the ancients.</li><li>Neptune spins on its axis very rapidly.</li><li>Neptune is the smallest of the ice giants.</li><li>The atmosphere of Neptune is made of hydrogen and helium, with some methane.</li><li>Neptune has a very active climate</li><li>Neptune has a very thin collection of rings.</li><li>Neptune has 14 moons.</li><li>Only one spacecraft has flown by Neptune.</li></ul>"
 		},
 
-		{
-			name: "sun",
-			picture: "img/sun.png",
-			info: "<ul><li>At its centre the Sun reaches temperatures of 15 million °C.</li><li>The Sun is all the colours mixed together, this appears white to our eyes.</li><li>The Sun is mostly composed of hydrogen (70%) and Helium (28%).</li><li>The Sun is a main-sequence G2V star (or Yellow Dwarf).</li><li>The Sun is 4.6 billion years old.</li><li>The Sun is 109 times wider than the Earth and 330,000 times as massive.</li></ul>"
-		},
+		// {
+		// 	name: "sun",
+		// 	picture: "img/sun.png",
+		// 	info: "<ul><li>At its centre the Sun reaches temperatures of 15 million °C.</li><li>The Sun is all the colours mixed together, this appears white to our eyes.</li><li>The Sun is mostly composed of hydrogen (70%) and Helium (28%).</li><li>The Sun is a main-sequence G2V star (or Yellow Dwarf).</li><li>The Sun is 4.6 billion years old.</li><li>The Sun is 109 times wider than the Earth and 330,000 times as massive.</li></ul>"
+		// },
 
 		{
 			name: "pluto",
 			picture: "img/pluto.png",
 			info: "<ul><li>Pluto is named after the Greek god of the underworld.</li><li>Pluto was reclassified from a planet to a dwarf planet in 2006.</li><li>Pluto was discovered on February 18th, 1930 by the Lowell Observatory.</li><li>Pluto has five known moons.</li><li>Pluto is the largest dwarf planet.</li><li>Pluto is one third water.</li><li>Pluto is smaller than a number of moons.</li><li>Pluto has a eccentric and inclined orbit.</li><li>Pluto has been visited by one spacecraft.</li><li>Pluto’s location was predicted by Percival Lowell in 1915.</li><li>Pluto sometimes has an atmosphere.</li></ul>"
-		},
-
-		{
-			name: "moon",
-			picture: "img/moon.png",
-			info: "<ul><li>The dark side of the moon is a myth.</li><li>The rise and fall of the tides on Earth is caused by the Moon.</li><li>The Moon is drifting away from the Earth.</li><li>A person would weigh much less on the Moon.</li><li>The Moon has only been walked on by 12 people; all American males.</li><li>The Moon has no atmosphere.</li><li>The Moon has quakes.</li><li>The first spacecraft to reach the Moon was Luna 1 in 1959.</li><li>The Moon is the fifth largest natural satellite in the Solar System.</li><li>The Moon will be visited by man in the near future.</li><li>During the 1950’s the USA considered detonating a nuclear bomb on the Moon.</li></ul>"
 		}
+
+		// {
+		// 	name: "moon",
+		// 	picture: "img/moon.png",
+		// 	info: "<ul><li>The dark side of the moon is a myth.</li><li>The rise and fall of the tides on Earth is caused by the Moon.</li><li>The Moon is drifting away from the Earth.</li><li>A person would weigh much less on the Moon.</li><li>The Moon has only been walked on by 12 people; all American males.</li><li>The Moon has no atmosphere.</li><li>The Moon has quakes.</li><li>The first spacecraft to reach the Moon was Luna 1 in 1959.</li><li>The Moon is the fifth largest natural satellite in the Solar System.</li><li>The Moon will be visited by man in the near future.</li><li>During the 1950’s the USA considered detonating a nuclear bomb on the Moon.</li></ul>"
+		// }
 
 ];
 
